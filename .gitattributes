@@ -1,0 +1,5 @@
+# Zeilenenden automatisch normalisieren (Windows <-> Linux/Docker)
+* text=auto
+
+# Shell-Skripte müssen LF behalten, sonst brechen sie im Container
+*.sh text eol=lf

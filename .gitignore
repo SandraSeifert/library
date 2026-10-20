@@ -1,0 +1,24 @@
+# Zugangsdaten – nie committen (stattdessen .env.example)
+.env
+
+# Go
+bin/
+*.exe
+*.test
+*.out
+
+# Node / TypeScript
+node_modules/
+dist/
+
+# Docker / Datenbank
+pgdata/
+
+# Logs und Editor
+*.log
+.vscode/
+.idea/
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
