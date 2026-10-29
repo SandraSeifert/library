@@ -16,6 +16,21 @@ Im Buchladen scanne ich den Barcode eines Buches und sehe sofort, ob ich es scho
 
 Git/GitHub · PostgreSQL (Docker) · Go (Backend) · TypeScript (Frontend)
 
+## Arbeitsweise
+
+Branches, Commits und Pull Requests sind in [CONTRIBUTING.md](CONTRIBUTING.md) beschrieben.
+
+## Roadmap
+
+1. Git-Handwerk und Projektgerüst
+2. Datenmodell und Docker
+3. Go-Backend
+4. TypeScript-Frontend
+5. Barcode-Scanner
+6. Leih-Liste und Wunschliste
+7. Deployment und Sicherheit
+
 ## Status
 
 Projektgerüst. Backlog siehe [Issues](https://github.com/SandraSeifert/library/issues).
+
